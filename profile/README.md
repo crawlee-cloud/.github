@@ -1,11 +1,14 @@
 <div align="center">
-  <!-- Place Logo Here -->
-  <img src="./logo.svg" width="450" alt="Crawlee Cloud Logo" />
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./logo-light.svg">
+    <img src="./logo-dark.svg" width="450" alt="Crawlee Cloud Logo" />
+  </picture>
 
   **Your Scrapers, Your Cloud ✨**
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-  [![Discord](https://img.shields.io/discord/1234567890?color=5865F2&label=discord)](https://discord.gg/your-invite)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/crawlee-cloud/crawlee-cloud/blob/main/LICENSE)
 
 </div>
 
@@ -15,16 +18,15 @@
 
 Crawlee Cloud is a self-hosted platform that lets you run **Crawlee and Apify Actors** on your own infrastructure. We provide an open-source implementation of the Apify API, meaning you can point the official [Apify SDK](https://sdk.apify.com) at your own servers and everything just works.
 
-- **� Your Infrastructure:** Deploy on your own servers, cloud, or anywhere you like.
+- **🏠 Your Infrastructure:** Deploy on your own servers, cloud, or anywhere you like.
 - **🔒 Complete Privacy:** Your data stays exactly where you want it.
 - **⚡ SDK Compatible:** Works with your existing Actors without code changes.
 
-### 🛠️ Core Projects
+### 🛠️ Core Project
 
 | Project | Description |
 | :--- | :--- |
 | **[crawlee-cloud](https://github.com/crawlee-cloud/crawlee-cloud)** | The monorepo containing the API Server, Runner, CLI, and Dashboard. |
-| **[crawlee-python](https://github.com/crawlee-cloud/crawlee-python)** | (Coming Soon) Python client compatibility layer. |
 
 ### 🌟 Getting Started
 
@@ -40,16 +42,15 @@ Crawlee Cloud is a self-hosted platform that lets you run **Crawlee and Apify Ac
    node main.js
    ```
 
-### 🤝 Join the Community
+### 📚 Resources
 
-We are building the future of open-source scraping infrastructure.
-
-- [🐛 Report a Bug](https://github.com/crawlee-cloud/crawlee-cloud/issues)
-- [💬 Discussions](https://github.com/crawlee-cloud/crawlee-cloud/discussions)
-- [📦 Roadmap](https://github.com/orgs/crawlee-cloud/projects)
+- [📖 Documentation](https://crawlee.cloud/docs)
+- [�️ Roadmap](https://github.com/crawlee-cloud/crawlee-cloud/blob/main/ROADMAP.md)
+- [� Report a Bug](https://github.com/crawlee-cloud/crawlee-cloud/issues)
+- [� Discussions](https://github.com/crawlee-cloud/crawlee-cloud/discussions)
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by the Crawlee Cloud Community</sub>
+  <sub>Built with ❤️ for the web scraping community</sub>
 </div>
