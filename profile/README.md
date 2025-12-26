@@ -2,7 +2,7 @@
   <!-- Place Logo Here -->
   <img src="./logo.svg" width="450" alt="Crawlee Cloud Logo" />
 
-  **The Open Source execution layer for the Apify ecosystem.**
+  **Your Scrapers, Your Cloud ✨**
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
   [![Discord](https://img.shields.io/discord/1234567890?color=5865F2&label=discord)](https://discord.gg/your-invite)
@@ -13,11 +13,11 @@
 
 ### 🚀 What is Crawlee Cloud?
 
-Crawlee Cloud is a self-hosted platform that lets you run **Apify Actors** on your own infrastructure. We provide an open-source implementation of the Apify API, meaning you can point the official [Apify SDK](https://sdk.apify.com) at your own servers and everything just works.
+Crawlee Cloud is a self-hosted platform that lets you run **Crawlee and Apify Actors** on your own infrastructure. We provide an open-source implementation of the Apify API, meaning you can point the official [Apify SDK](https://sdk.apify.com) at your own servers and everything just works.
 
-- **💸 Zero Platform Fees:** You pay only for your infrastructure (AWS, DigitalOcean, Hetzner, or bare metal).
-- **🔒 Private by Design:** Your data never leaves your VPC.
-- **⚡ Drop-in Compatible:** Works with existing Actors and Scrapers without code changes.
+- **� Your Infrastructure:** Deploy on your own servers, cloud, or anywhere you like.
+- **🔒 Complete Privacy:** Your data stays exactly where you want it.
+- **⚡ SDK Compatible:** Works with your existing Actors without code changes.
 
 ### 🛠️ Core Projects
 
