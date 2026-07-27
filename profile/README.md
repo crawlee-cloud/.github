@@ -45,9 +45,10 @@ Crawlee Cloud is a self-hosted platform that lets you run **Crawlee and Apify Ac
 ### 📚 Resources
 
 - [📖 Documentation](https://crawlee.cloud/docs)
-- [�️ Roadmap](https://github.com/crawlee-cloud/crawlee-cloud/blob/main/ROADMAP.md)
-- [� Report a Bug](https://github.com/crawlee-cloud/crawlee-cloud/issues)
-- [� Discussions](https://github.com/crawlee-cloud/crawlee-cloud/discussions)
+- [🗺️ Roadmap](https://github.com/crawlee-cloud/crawlee-cloud/blob/main/ROADMAP.md)
+- [🐛 Report a Bug](https://github.com/crawlee-cloud/crawlee-cloud/issues)
+- [💬 Discussions](https://github.com/crawlee-cloud/crawlee-cloud/discussions) — questions, ideas, and show & tell
+- [🚀 Deployed it? Tell us how it went](https://github.com/crawlee-cloud/crawlee-cloud/issues/new?template=deployment_report.yml)
 
 ---
 
